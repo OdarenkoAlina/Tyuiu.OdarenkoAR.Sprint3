@@ -14,7 +14,7 @@ namespace Tyuiu.OdarenkoAR.Sprint3.Task1.V8
             Console.Title = "Спринт #3 | Выполнила: Одаренко А. Р. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Получение результата из switch                                    *");
+            Console.WriteLine("* Тема: Оператор цикла while                                    *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #8                                                              *");
             Console.WriteLine("* Выполнила Одаренко А. Р. | ИСПб-23-1                                    *");
