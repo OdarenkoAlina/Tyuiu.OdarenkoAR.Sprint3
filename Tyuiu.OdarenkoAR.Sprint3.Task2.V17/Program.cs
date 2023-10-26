@@ -14,7 +14,7 @@ namespace Tyuiu.OdarenkoAR.Sprint3.Task2.V17
             Console.Title = "Спринт #3 | Выполнила: Одаренко А. Р. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла do-while                                              *");
+            Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");
             Console.WriteLine("* Выполнила Одаренко А. Р. | ИСПб-23-1                                    *");
