@@ -14,7 +14,7 @@ namespace Tyuiu.OdarenkoAR.Sprint3.Task5.V16
             Console.Title = "Спринт #3 | Выполнила: Одаренко А. Р. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: использование операторов continue и break в циклах                *");
+            Console.WriteLine("* Тема: вложенные циклы                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
             Console.WriteLine("* Выполнила Одаренко А. Р. | ИСПб-23-1                                    *");
